@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-    "$basetexture" "slotmachine/grapes"
-    "$surfaceprop" "glass"
-    "$nodecal" "1"
-    //"$selfillum" "1"
-}
